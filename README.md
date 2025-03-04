@@ -1,3 +1,3 @@
 # first_repo
 my first git repositary<br>
-Auther - Nishant Pawar
+Auther - Nishant Pawar (Garp)
